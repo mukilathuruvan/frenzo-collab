@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 python
-=======
-
+rakesh
+Nayab 
+sai praveen
+cherukui veera venkata gopinadh
 nikhil ganesh
 Vanguru Kiriti Reddy
 Tharun
-
-
->>>>>>> 28c6d1ad5fa35ea12e87c7c0808ced22ee175ced
