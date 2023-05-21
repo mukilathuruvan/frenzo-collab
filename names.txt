@@ -1,15 +1,10 @@
-<<<<<<< HEAD
 mahesh babu
 nikhil ganesh
 Vanguru Kiriti Reddy
 Tharun
-
-=======
-
 Nayab 
 sai praveen
 cherukui veera venkata gopinadh
 nikhil ganesh
 Vanguru Kiriti Reddy
 Tharun
->>>>>>> ddd2b1ac41e0545593642eb34aa6ae516e810f80
