@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 navin
 =======
 
@@ -8,3 +9,13 @@ Tharun
 
 
 >>>>>>> 28c6d1ad5fa35ea12e87c7c0808ced22ee175ced
+=======
+python
+rakesh
+Nayab 
+sai praveen
+cherukui veera venkata gopinadh
+nikhil ganesh
+Vanguru Kiriti Reddy
+Tharun
+>>>>>>> c59cd2135b52b230f9d25782923c0addb0e740c4
